@@ -1,6 +1,7 @@
 import csv
 
-def create_report (data_file_name: str, report_file_name: str) -> None:
+
+def create_report(data_file_name: str, report_file_name: str) -> None:
     total_supply = 0
     total_buy = 0
 
